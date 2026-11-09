@@ -1,0 +1,8 @@
+Run: node
+Then enter these five expressions one by one:
+2 + 3
+10 * 5
+"Node.js".toUpperCase()
+[1, 2, 3].map(n => n * 2)
+({ name: "Altamash", course: "MCA" }).course
+Exit REPL with .exit

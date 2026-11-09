@@ -1,0 +1,16 @@
+{
+  "name": "node-lab",
+  "version": "1.0.0",
+  "description": "Node CLI and NPM practical",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "dependencies": {
+    "lodash": "^4.17.21"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.10"
+  }
+}

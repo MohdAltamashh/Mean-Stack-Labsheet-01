@@ -1,0 +1,1 @@
+Run `node file-read.js`. Then run `node server.js`; open http://localhost:3000/slow and http://localhost:3000/fast in two tabs. The blocking loop intentionally delays all requests. Do not use blocking loops in real servers.

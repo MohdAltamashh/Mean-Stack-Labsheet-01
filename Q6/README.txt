@@ -1,0 +1,1 @@
+Run `node event-loop.js`. Expected reliable ordering: synchronous logs first, then process.nextTick, then Promise microtask. The relative order of setTimeout(0) and setImmediate can vary depending on execution context and Node version.

@@ -1,0 +1,1 @@
+Run `node student.js`. The array contains five objects, including a subclass instance; filter() and map() display students scoring above 60.

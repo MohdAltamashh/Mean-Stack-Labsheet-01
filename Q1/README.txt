@@ -1,0 +1,1 @@
+Install Node.js LTS, verify `node -v` and `npm -v`. Start REPL with `node` and evaluate the five expressions in repl-expressions.txt. Run `node hello.js`.

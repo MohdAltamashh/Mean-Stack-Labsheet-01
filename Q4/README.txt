@@ -1,0 +1,1 @@
+Run `node es6demo.js`. The output demonstrates let/const, arrow functions, template literals, object/array destructuring, spread/rest and default parameters.

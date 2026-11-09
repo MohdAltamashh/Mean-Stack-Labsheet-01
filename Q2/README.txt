@@ -1,0 +1,1 @@
+In this folder run `npm install`, then `npm run dev`. Edit index.js and observe nodemon restart. `npm start` runs the normal script.
